@@ -18,4 +18,4 @@ A university campus card transaction information management system should be abl
     5. Read and write the corresponding transaction journal data file for each student.
 
 // Written in C++11.  
-// This project contains some legacy code because it is a deeply modified fusion of our two sample linked list projects from my teacher. (which have been used for many years i guess)
+// This project contains some legacy code because it is a deeply modified fusion of our two old sample linked list projects (which have been used for many years i guess) from my teacher. 
