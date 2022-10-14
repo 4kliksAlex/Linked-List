@@ -11,7 +11,7 @@ A university campus card transaction information management system should be abl
     5. delete student information;
     6. sort student list information by student number or name.  
 2. Transaction records:
-    1. Simulate the function of recording transaction time and the remaining amount in the student campus card after each recharge or payment;
+    1. Recording transaction time and the remaining amount in the student campus card after each recharge or payment;
     2. When appending recharge or transaction records, the transaction information should be automatically arranged according to the transaction date;
     3. Recalculate the remaining amount in the account after adding or deleting transaction records;
     4. Arrange the transactions according to time or in the order of transaction amount or in reverse order;
