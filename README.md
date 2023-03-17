@@ -1,8 +1,7 @@
 # Linked-List-Student-Database
-[Background overview]  
-A university campus card transaction information management system should be able to manage multiple transaction information of multiple students, to register the recorded date and money in each transaction record, and to calculate the balance after each transaction.
-
-[Basics]  
+## Background overview  
+A university campus card transaction information management system, capable of managing multiple transaction information of multiple students, registering the recorded date and amount in each transaction record, and calculating the balance after each transaction.
+## Components
 1. Student list:
     1. record student numbers and names;
     2. read and save student data;
@@ -17,5 +16,6 @@ A university campus card transaction information management system should be abl
     4. Arrange the transactions according to time or in the order of transaction amount or in reverse order;
     5. Read and write the corresponding transaction journal data file for each student.
 
-// Written in C++11.  
-// This project contains some legacy code because it is a deeply modified fusion of our two old sample linked list projects (which have been used for many years i guess) from my teacher. 
+<sub> Written in C++11. </sub>
+
+<sup> This project contains legacy code because it's a deeply modified fusion of two old sample linked-list projects (which have been used for many years i guess) from my teacher. </sup>
