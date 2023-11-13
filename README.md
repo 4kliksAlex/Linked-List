@@ -1,4 +1,4 @@
-# Linked-List-Student-Database
+# Linked-List
 ## Background overview  
 A university campus card transaction information management system, capable of managing multiple transaction information of multiple students, registering the recorded date and amount in each transaction record, and calculating the balance after each transaction.
 ## Components
