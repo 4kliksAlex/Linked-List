@@ -16,6 +16,6 @@ A university campus card transaction information management system, capable of m
     4. Arrange the transactions according to time or in the order of transaction amount or in reverse order;
     5. Read and write the corresponding transaction journal data file for each student.
 
-<sub> Written in C++11. </sub>
+<sub> compile in C++11 </sub>
 
-<sup> This project contains legacy code because it's a deeply modified fusion of two old sample linked-list projects (which have been used for many years i guess) from my teacher. </sup>
+<sup> This project contains outdated legacy code as it's a deeply modified fusion of two old sample linked-list projects (which was written many years ago i guess) from my teacher. </sup>
